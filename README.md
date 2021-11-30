@@ -8,7 +8,7 @@
 - 🔭 I still learn coding languange [Become A Expert Developer][course]!
 - 🌱 I’m currently learning everything 🤣
 - 📽 I'm a [Youtube](http://youtube.com/aupayt_) Content Creator
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn more about programming & developing
 - ⚡ Fun fact: I'm still 14 years old ..
 
 ### Connect with me:
@@ -45,12 +45,12 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+#### 📺 Latest YouTube Videos
 ➡️ [Watch here...](https://youtube.com/aupayt_)
 
 ---
 
-### 📕 Latest Blog Post
+#### 📕 Latest Blog Post
 ➡️ [Read here...](https://aupaxd.blogspot.com)
 
 ---
@@ -64,7 +64,7 @@
 
 ---
 
-### forked from [codeSTACKr](http://github.com/codestackr)
+##### forked from [codeSTACKr](http://github.com/codestackr)
 
 [website]: https://aupaxd.blogspot.com
 [course]: http://replit.com/aupax
